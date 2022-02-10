@@ -181,5 +181,15 @@
 
 
 
+### 2022-02-10：
 
+资料分析:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1557139437/2
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1556298998/2   15个对4个，还用了24分钟，蒙都比这正确率高
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1556180758/2  13/15  这个是早上做得，正确率就比较高
+
+完犊子了，芭比Q了，哎 言语理解言语理解不行，资料分析资料分析不行。难受
+
+言语理解 15个对4个   资料分析 12/19。 哎，心塞，一言难尽，言语理解已经分析过了，资料分析正在看错题
 
