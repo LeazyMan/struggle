@@ -200,3 +200,14 @@
 资料分析: 13/15  https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1558347209/2
 
 哎，放假还得学习
+
+
+
+### 2022-02-12(周六)：
+
+感觉状态有所回升，比前些天做言语理解的状态好多了，就是2022-2-10这天
+
+12 /15    16分 44秒 （还是需要控制在排序上面题目的用时间，一个排序得3分钟）
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1558578995/2
+
