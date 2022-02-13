@@ -216,3 +216,30 @@
 13 /15     31分 12秒 难度: 4.4 资料分析还需要加快做题时间
 
 资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1558634361/2
+
+
+
+
+
+### 2022-02-13(周日)
+
+共15道，答对12道，正确率80%，用时19分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1559499976/2
+
+
+
+共19道，答对12道，正确率63%，用时66分钟
+
+资料分析:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1559463234/2
+
+
+
+共15道，答对10道，正确率67%，用时21分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1559954406/2
+
+
+
+申论：李梦圆申论的第二课完成
+
