@@ -243,3 +243,19 @@
 
 申论：李梦圆申论的第二课完成
 
+
+
+
+
+### 2022-02-14(周一)
+
+共15道，答对13道，正确率87%，用时42分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1561563150/2
+
+
+
+共15道，答对11道，正确率73%，用时22分钟
+
+言语理解与表达: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1560636729/2	
+
