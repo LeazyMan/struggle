@@ -259,3 +259,23 @@
 
 言语理解与表达: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1560636729/2	
 
+
+
+### 2022-02-15：
+
+共15道，答对13道，正确率87%，用时40分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1562785194/2
+
+共15道，答对9道，正确率60%，用时27分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1561774801/2
+
+共15道，答对11道，正确率73%，用时40分钟
+
+资料分析:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1561781409/2 （还没有看错题）
+
+共15道，答对12道，正确率80%
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1562141356/2
+
