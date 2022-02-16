@@ -279,3 +279,14 @@
 
 言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1562141356/2
 
+
+
+### 2022-02-16：
+
+共15道，答对13道，正确率87%，用时47分钟
+
+资料分析:  https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1563972932/2
+
+共15道，答对12道，正确率80%，用时18分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1563456893/2
