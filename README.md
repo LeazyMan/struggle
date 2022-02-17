@@ -290,3 +290,32 @@
 共15道，答对12道，正确率80%，用时18分钟
 
 言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1563456893/2
+
+
+
+数量关系学习完：不定方程和不定方程组的解题方法:[奇偶、尾数、倍数]
+
+
+
+### 2022-02-17:
+
+共16道，答对13道，正确率81%，用时38分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1565643899/2
+
+共17道，答对15道，正确率88%，用时58分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1564508439/2
+
+共15道，答对12道，正确率80%，用时23分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1564421297/2
+
+
+
+共15道，答对8道，正确率53%，用时17分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1564463374/2
+
+
+
