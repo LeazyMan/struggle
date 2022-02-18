@@ -319,3 +319,14 @@
 
 
 
+### 2022-02-18：
+
+今天运气挺好的，做资料分析和言语理解都是简单题型
+
+共15道，答对14道，正确率93%，用时41分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1566043437/2
+
+共15道，答对14道，正确率93%，用时18分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1565989678/2
