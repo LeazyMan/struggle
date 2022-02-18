@@ -330,3 +330,27 @@
 共15道，答对14道，正确率93%，用时18分钟
 
 言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1565989678/2
+
+
+
+
+
+今天发现了一个有意思的事情，换了一个新号（打算与之前做对比），通过系统性的学习了粉笔980的课程，我看见了自己的进步
+
+学习之前: 
+
+<img src="images/before-learn.png" style="zoom: 67%;" />
+
+
+
+
+
+学习之后
+
+<img src="images/after-learn.png" style="zoom:67%;" />
+
+
+
+
+
+人才啊，预测分数越低了
