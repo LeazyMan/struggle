@@ -354,3 +354,31 @@
 
 
 人才啊，预测分数越低了
+
+
+
+
+
+
+
+
+
+
+
+### 2022-02-19：
+
+共15道，答对12道，正确率80%，用时21分钟
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1567418742/2
+
+
+
+共15道，答对10道，正确率67%，用时19分钟
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1568351617/2
+
+
+
+共15道，答对12道，正确率80%，用时45分钟 (真实时间估计得60分钟，真心状态不好! 懒得读题，心烦。感觉做题时静不下心，没耐心找信息，手机做题，感觉比电脑做题找资料要方便太多了)
+
+资料分析:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1568529057/2
