@@ -411,3 +411,26 @@
 
 
 
+### 2022-02-21：
+
+共15道，答对13道，正确率87%，用时29分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1571810055/2
+
+
+
+共15道，答对10道，正确率67%，用时15分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1570715044/2
+
+
+
+共15道，答对10道，正确率67%，用时16分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1570364513/2
+
+
+
+共17道，答对14道，正确率82%，用时50分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1570222024/2
