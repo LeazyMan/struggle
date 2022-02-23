@@ -437,10 +437,6 @@
 
 
 
-
-
-
-
 ### 2022-02-22：
 
 共15道，答对11道，正确率73%，用时41分钟
@@ -454,4 +450,20 @@
 共15道，答对11道，正确率73%，用时16分钟
 
 言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1572236062/2
+
+
+
+### 2022-02-23
+
+共15道，答对13道，正确率87%，用时51分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1575999453/2
+
+共15道，答对11道，正确率73%，用时23分钟
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1575013818/2
+
+共15道，答对9道，正确率60%，用时21分钟
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1574424515/2
 
