@@ -467,3 +467,22 @@
 
 言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1574424515/2
 
+
+
+### 2022-02-24：
+
+共17道，答对12道，正确率71%，用时51分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1576653919/2
+
+
+
+共15道，答对6道，正确率40%，用时18分钟
+
+言语理解: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1576750859/2
+
+
+
+
+
+ 
