@@ -483,10 +483,16 @@
 
 
 
-### 2022-02-24：
+### 2022-02-25：
 
 共16道，答对13道，正确率81%，用时45分钟
 
 资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1580530593/2--
 
  
+
+### 2022-02-26：
+
+共16道，答对14道，正确率88%
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1581031239/2
