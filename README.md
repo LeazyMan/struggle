@@ -496,3 +496,11 @@
 共16道，答对14道，正确率88%
 
 资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1581031239/2
+
+
+
+### 2022-02-27：
+
+共15道，答对11道，正确率73%，用时42分钟
+
+资料分析：https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1583825089/2
