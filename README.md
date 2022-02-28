@@ -504,3 +504,21 @@
 共15道，答对11道，正确率73%，用时42分钟
 
 资料分析：https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1583825089/2
+
+
+
+
+
+### 2022-02-28
+
+共15道，答对11道，正确率73%，用时25分钟
+
+言语理解:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1584791530/2
+
+共16道，答对12道，正确率75%，用时29分钟
+
+资料分析:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1584800549/2
+
+共15道，答对12道，正确率80%，用时12分钟
+
+判断推理:https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1584966519/2
