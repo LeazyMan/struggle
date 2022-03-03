@@ -541,10 +541,20 @@
 
 
 
-### 2020-03-02：
+### 2022-03-02：
 
 
 
 共15道，答对12道，正确率80%，用时37分钟
 
 资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1589933829/2
+
+
+
+
+
+### 2022-03-03 (周四)：
+
+共15道，答对12道，正确率80%，用时41分钟
+
+资料分析: https://spa.fenbi.com/tiku/report/exam/solution/xingce/xingce/1592589747/2
